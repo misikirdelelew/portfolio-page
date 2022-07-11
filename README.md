@@ -37,4 +37,5 @@ Feel free to check the issues page.
 
 etc
 📝 License
+
 This project is MIT licensed.
